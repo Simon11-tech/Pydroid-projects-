@@ -106,7 +106,7 @@ Basic data persistence and how to simulate a small-scale financial record-keepin
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/project-name.git
+https://github.com/Simon11-tech/Pydroid-projects-
 
 2. Navigate to the desired project folder:
 
