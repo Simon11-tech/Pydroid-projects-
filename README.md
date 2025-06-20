@@ -1,124 +1,59 @@
-# 🔥 My Python Project Collection
+# 🧰 SimCraft Tools – Python Projects Collection
 
-Welcome to a showcase of 5 beginner-to-intermediate level Python projects I’ve built while sharpening my skills as a student developer. These projects tackle real-world problems using basic to moderately advanced Python concepts — ranging from file organization and automation to GUI-based apps.
-
----
-
-## 📁 1. File Organizer Script
-
-### 📌 Description
-This script automatically sorts and organizes files in a chosen directory by file type (e.g., images, documents, videos). It's useful for decluttering messy folders and maintaining order.
-
-### 🔧 Features
-- Automatically scans a folder
-- Moves files into categorized folders
-- Lightweight and customizable
-
-### 🛠️ Tools & Technologies
-- Python
-- os module
-- shutil
-
-### 📚 What I Learned
-How to use file system modules (`os`, `shutil`) and write scripts to automate everyday tasks.
+Welcome to my curated collection of Python-based projects built with a mix of creativity, problem-solving, and a love for building automation tools. These are designed for real-world tasks ranging from file organization to simulations of management systems.
 
 ---
 
-## 📧 2. Email Automation Tool
+## 📂 Projects Overview
 
-### 📌 Description
-Sends customized emails to multiple recipients using SMTP. Designed for sending event invites, announcements, or follow-ups automatically.
+### 1. **Quiz App**
+A Python-based quiz application that supports multiple-choice questions, scoring, and a CLI interface.
 
-### 🔧 Features
-- SMTP authentication
-- Custom subject and body
-- Can handle multiple recipients
+### 2. **Weather App (GUI)**
+Uses the OpenWeatherMap API and Tkinter GUI to fetch and display live weather updates based on city input.
 
-### 🛠️ Tools & Technologies
-- Python
-- smtplib
-- email.message
+### 3. **Email Automation Tool**
+Automates sending emails using SMTP. Accepts dynamic input for sender, receiver, subject, and message body.
 
-### 📚 What I Learned
-How email protocols work, and how to automate communication workflows.
+### 4. **Expenses Tracker**
+A local finance tracker where users can record expenses, categorize them, and view summary reports.
 
----
+### 5. **File Organizer Script**
+Organizes files in a specified folder into subfolders based on file type/extension using the `os` module.
 
-## 🌦 3. Weather App with GUI
+### 6. **Hospital Management System**
+Simulates a CLI-based hospital system to manage patients, staff, appointments, and medical logs.
 
-### 📌 Description
-A desktop app that fetches real-time weather data for any city using the OpenWeatherMap API. It features a user-friendly interface.
+### 7. **School Management System**
+Basic management system for students, using separate files for login, data registration, and record keeping.
 
-### 🔧 Features
-- Real-time weather information
-- GUI built with tkinter
-- Error handling for invalid cities
+### 8. **Student Management System**
+Handles registration, profile updates, and results with file-based persistence and input validation.
 
-### 🛠️ Tools & Technologies
-- Python
-- tkinter
-- requests module
-- OpenWeatherMap API
+### 9. **Database Connector Script**
+Script that connects to a local MySQL database for CRUD operations on sample data using `mysql.connector`.
 
-### 📚 What I Learned
-API handling, GUI design with tkinter, and integrating backend logic into front-end design.
+### 10. **Tic-Tac-Toe Game (GUI & AI)**
+An interactive tic-tac-toe game featuring both player-vs-player and player-vs-AI (with Minimax logic).
 
 ---
 
-## ❓ 4. Python Quiz App
+## 🧠 Skills Used
 
-### 📌 Description
-A fun terminal-based multiple-choice quiz game. The app quizzes users on general knowledge and gives a score at the end.
-
-### 🔧 Features
-- Interactive question-and-answer flow
-- Score calculation and feedback
-- Easy to expand with more questions
-
-### 🛠️ Tools & Technologies
-- Python
-
-### 📚 What I Learned
-Logic structuring, working with lists and dictionaries, and enhancing user interaction through the terminal.
+- **Languages**: Python, SQL
+- **Libraries**: `tkinter`, `smtplib`, `os`, `random`, `time`, `json`
+- **Tools**: MySQL, GitHub, VS Code, Pydroid3
+- **Tech Concepts**: File handling, GUI programming, APIs, database integration, automation
 
 ---
 
-## 💰 5. Expense Tracker
+## 📬 Contact
 
-### 📌 Description
-A terminal-based personal finance tool that allows users to track income, expenses, and balances with date stamps.
-
-### 🔧 Features
-- Add income and expenses
-- View running balance
-- Track transaction history
-
-### 🛠️ Tools & Technologies
-- Python
-- File I/O (text file or CSV)
-
-### 📚 What I Learned
-Basic data persistence and how to simulate a small-scale financial record-keeping system.
+- **Email**: eromoselesimon5@gmail.com  
+- **LinkedIn**: [linkedin.com/in/simon-eromosele](https://www.linkedin.com/in/simon-eromosele-4067712b8)  
+- **GitHub**: [github.com/Simon11-tech](https://github.com/Simon11-tech)  
 
 ---
 
-## 🚀 How to Run Any Project
-
-1. Clone this repository:
-```bash
-https://github.com/Simon11-tech/Pydroid-projects-
-
-2. Navigate to the desired project folder:
-
-
-
-cd project-folder-name
-
-3. Run the script:
-
-
-
-python script_name.py
-
-
----
+## 🌟 Star this repo if you like the work.  
+#BuildInPublic #SimCraftTools 🚀
